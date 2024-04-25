@@ -3,25 +3,25 @@ body
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* Random Fox Generator */
+/* Random Fox Generator styles */
 #contianer
 {
     margin: auto;
     text-align: center;
-    background-color: rgb(237, 237, 237);
+    background-color: rgb(236, 236, 236);
 }
-
+/* header text style */
 #header-text
 {
     margin-top: 10px;
     margin-bottom: 15px;
 }
-
+/* image style */
 .fox-image {
     max-width: 400px;
     height: 300px;
 }
-
+/* button style */
 #new-fox-button
 {
     margin-top: 20px;
@@ -33,7 +33,7 @@ body
     border-radius: 6px;
     cursor: pointer;
 }
-
+/* button hover style */
 #new-fox-button:hover 
 {
     background-color: black;
